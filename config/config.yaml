@@ -1,0 +1,8 @@
+model_name:
+  mtl_task_model : 'close_tok_pos_ner_srl_dep_sdp_con_electra_base_20210111_124519_20210304_140543'
+  stl_task_model_tok : 'fine_electra_small_20220615_231803'
+  stl_task_model_ner : 'msra_ner_electra_small_20220215_205503'
+multi_task_or_single_task:
+  multi_task : False
+
+
